@@ -1,0 +1,4 @@
+CUSTOMER|C001|Alex Student
+CUSTOMER|C002|Jamie Reader
+EMPLOYEE|E001|Jordan Staff
+MASTER|M001|Morgan Librarian

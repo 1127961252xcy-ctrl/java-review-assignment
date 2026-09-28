@@ -1,0 +1,5 @@
+BOOK|B001|The Hobbit|J.R.R. Tolkien|Fantasy|4.8|AVAILABLE|310
+BOOK|B002|Clean Code|Robert C. Martin|Programming|4.7|AVAILABLE|464
+MAGAZINE|M001|National Geographic|National Geographic Society|Science|4.5|AVAILABLE|128
+MOVIE|V001|The Matrix|The Wachowskis|Science Fiction|4.6|AVAILABLE|136
+BOOK|B003|The Martian|Andy Weir|Science Fiction|4.6|AVAILABLE|384
